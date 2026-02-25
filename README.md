@@ -1,2 +1,2 @@
-# aul-o-git-github-pgats
+# aulao-git-github-pgats
 Repositório criado para a aula de Git e Github da Pos pgats
